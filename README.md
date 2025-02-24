@@ -1,4 +1,4 @@
-# OAK-D Object Recognition and Depth Processing
+# OAK-D Object Recognition, Depth Processing, and Pointcloud Generation
 
 This repository contains Python scripts for object recognition, distance measurement, point cloud generation, and depth mapping using the OAK-D LR camera.
 
